@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mittarvrecipesapp/static/css/main.75891a2b.css",
+    "main.js": "/Mittarvrecipesapp/static/js/main.d7172a73.js",
+    "static/js/453.8ab44547.chunk.js": "/Mittarvrecipesapp/static/js/453.8ab44547.chunk.js",
+    "index.html": "/Mittarvrecipesapp/index.html",
+    "main.75891a2b.css.map": "/Mittarvrecipesapp/static/css/main.75891a2b.css.map",
+    "main.d7172a73.js.map": "/Mittarvrecipesapp/static/js/main.d7172a73.js.map",
+    "453.8ab44547.chunk.js.map": "/Mittarvrecipesapp/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75891a2b.css",
+    "static/js/main.d7172a73.js"
+  ]
+}
